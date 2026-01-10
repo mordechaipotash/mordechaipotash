@@ -1,8 +1,10 @@
 # Mordechai Potash
 
-**Cognitive infrastructure for AI. Solo. Bootstrapped.**
+**Context Engineer. 106K vectors, 30+ MCP tools, solo.**
 
-I build systems that work with deep focus, not against it.
+Open to async work.
+
+---
 
 ## Current Focus
 
@@ -23,9 +25,9 @@ LanceDB · DuckDB · Parquet · nomic-embed-text · MCP · Python
 
 | Area | Example |
 |------|---------|
+| Context Engineering | CLAUDE.md architecture, MCP brain servers |
 | Data Engineering | 70+ pipelines, 50M+ records processed |
-| AI Infrastructure | MCP servers, embeddings, vector search |
-| Automation | Claude Code hooks, launchd agents |
+| AI Orchestration | Embeddings, vector search, auto-sync |
 
 ## Philosophy
 
