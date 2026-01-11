@@ -10,15 +10,17 @@ Open to async work.
 
 **[intellectual-dna](https://github.com/mordechaipotash/intellectual-dna)** — Personal knowledge system that queries 3 years of AI conversations (353K messages) with semantic search in 256ms.
 
-- MCP server with 30+ tools for Claude Code/Desktop
-- 106K vectors in LanceDB
-- Auto-sync via Claude Code hooks
-- Daily briefing agent that surfaces patterns
+**[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. One command: `npx brain-canvas`
+
+| Project | What | Numbers |
+|---------|------|---------|
+| intellectual-dna | MCP brain server | 353K messages, 106K vectors, 30+ tools |
+| brain-canvas | LLM display layer | 191 lines, 0 deps, any LLM |
 
 ## Stack
 
 ```
-LanceDB · DuckDB · Parquet · nomic-embed-text · MCP · Python
+LanceDB · DuckDB · Parquet · nomic-embed-text · MCP · Node.js · Python
 ```
 
 ## What I Do
@@ -28,12 +30,17 @@ LanceDB · DuckDB · Parquet · nomic-embed-text · MCP · Python
 | Context Engineering | CLAUDE.md architecture, MCP brain servers |
 | Data Engineering | 70+ pipelines, 50M+ records processed |
 | AI Orchestration | Embeddings, vector search, auto-sync |
+| Inference Time UI | LLM generates interface at runtime |
 
 ## Philosophy
 
 > "The bottleneck is the amplifier."
 
 Design systems around constraints, not against them.
+
+> "Ship KBs of seeds, not MBs of UI."
+
+Let the LLM generate the interface.
 
 ---
 
