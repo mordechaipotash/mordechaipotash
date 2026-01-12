@@ -1,6 +1,6 @@
 # Mordechai Potash
 
-**Context Engineer. 106K vectors, 30+ MCP tools, solo.**
+**Context Engineer. 106K vectors, 92 MCP tools, solo.**
 
 Open to async work.
 
@@ -12,10 +12,13 @@ Open to async work.
 
 **[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. One command: `npx brain-canvas`
 
+**[unpack](https://github.com/mordechaipotash/unpack)** — Portable thinking for any LLM. Paste JSON, type `unpack`, journey.
+
 | Project | What | Numbers |
 |---------|------|---------|
-| intellectual-dna | MCP brain server | 353K messages, 106K vectors, 30+ tools |
+| intellectual-dna | MCP brain server | 353K messages, 106K vectors, 92 tools |
 | brain-canvas | LLM display layer | 191 lines, 0 deps, any LLM |
+| unpack | Portable seeds | 3 seeds, runs anywhere |
 
 ## Stack
 
