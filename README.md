@@ -18,7 +18,7 @@ Open to async work.
 |---------|------|---------|
 | intellectual-dna | MCP brain server | 353K messages, 106K vectors, 92 tools |
 | brain-canvas | LLM display layer | 191 lines, 0 deps, any LLM |
-| unpack | Portable seeds | 3 seeds, runs anywhere |
+| unpack | Portable seeds | 4 seeds, 190KB, runs anywhere |
 
 ## Stack
 
