@@ -12,13 +12,13 @@ Open to async work.
 
 **[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. One command: `npx brain-canvas`
 
-**[unpack](https://github.com/mordechaipotash/unpack)** — Portable thinking for any LLM. Paste JSON, type `unpack`, journey.
+**[thesis](https://github.com/mordechaipotash/thesis)** — 416K messages → 152KB JSON → type `unpack` → explore.
 
 | Project | What | Numbers |
 |---------|------|---------|
 | intellectual-dna | MCP brain server | 353K messages, 106K vectors, 92 tools |
 | brain-canvas | LLM display layer | 191 lines, 0 deps, any LLM |
-| unpack | Portable seeds | 4 seeds, 190KB, runs anywhere |
+| thesis | Portable seed | 152KB, 17 themes, runs in any LLM |
 
 ## Stack
 
