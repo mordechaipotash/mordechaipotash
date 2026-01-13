@@ -41,7 +41,7 @@ $200K+ generated · Built in 1 week · Multi-tenant
 ## The Depth
 
 ```
-142 repos (15 public · 35 working · 92 archived)
+142 repos (17 public · 35 working · 92 archived)
 62 WOTC iterations → 4 production systems
 3 years of AI → queryable in 256ms
 ```
