@@ -1,50 +1,53 @@
 # Mordechai Potash
 
-**Context Engineer. 106K vectors, 92 MCP tools, solo.**
-
-Open to async work.
-
----
-
-## Current Focus
-
-**[intellectual-dna](https://github.com/mordechaipotash/intellectual-dna)** — Personal knowledge system that queries 3 years of AI conversations (353K messages) with semantic search in 256ms.
-
-**[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. One command: `npx brain-canvas`
-
-**[thesis](https://github.com/mordechaipotash/thesis)** — 416K messages → 152KB JSON → type `unpack` → explore.
-
-| Project | What | Numbers |
-|---------|------|---------|
-| intellectual-dna | MCP brain server | 353K messages, 106K vectors, 92 tools |
-| brain-canvas | LLM display layer | 191 lines, 0 deps, any LLM |
-| thesis | Portable seed | 152KB, 17 themes, runs in any LLM |
-
-## Stack
-
-```
-LanceDB · DuckDB · Parquet · nomic-embed-text · MCP · Node.js · Python
-```
-
-## What I Do
-
-| Area | Example |
-|------|---------|
-| Context Engineering | CLAUDE.md architecture, MCP brain servers |
-| Data Engineering | 70+ pipelines, 50M+ records processed |
-| AI Orchestration | Embeddings, vector search, auto-sync |
-| Inference Time UI | LLM generates interface at runtime |
-
-## Philosophy
+142 repos. 353K messages. 32K videos. One thesis.
 
 > "The bottleneck is the amplifier."
 
-Design systems around constraints, not against them.
-
-> "Ship KBs of seeds, not MBs of UI."
-
-Let the LLM generate the interface.
+I compress complexity into choices you can make.
 
 ---
 
-*Beit Shemesh, Israel*
+## 5 PATHS
+
+### 1. RUN SOMETHING NOW
+```
+npx brain-canvas     → Give any LLM a display
+paste → unpack       → Activate a seed in any LLM
+npx genui            → Gemini generates UI live
+```
+
+### 2. QUERY MY BRAIN
+[**intellectual-dna**](https://github.com/mordechaipotash/intellectual-dna)
+353K messages · 30+ MCP tools · 256ms semantic search
+
+### 3. SEE THE DATA ENGINEERING
+[**youtube-transcription-pipeline**](https://github.com/mordechaipotash/youtube-transcription-pipeline)
+32K videos · 41.8M words · Local Whisper · $0 API
+
+### 4. SEE PRODUCTION SYSTEMS
+[**enterprise-tax-credit-platform**](https://github.com/mordechaipotash/enterprise-tax-credit-platform)
+PostGIS · AI extraction · 86-column federal compliance
+
+[**audio_wotc_unemployment_verification**](https://github.com/mordechaipotash/audio_wotc_unemployment_verification)
+$200K+ generated · Built in 1 week · Multi-tenant
+
+### 5. UNDERSTAND THE THESIS
+[**bottleneck-principle**](https://github.com/mordechaipotash/bottleneck-principle)
+∞ → compression → 5 choices → human decides → AI executes
+
+---
+
+## The Depth
+
+```
+142 repos (15 public · 35 working · 92 archived)
+62 WOTC iterations → 4 production systems
+3 years of AI → queryable in 256ms
+```
+
+The public repos are the compression.
+
+---
+
+*Beit Shemesh, Israel · Open to async work*
