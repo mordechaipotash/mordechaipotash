@@ -1,53 +1,55 @@
 # Mordechai Potash
 
-142 repos. 353K messages. 32K videos. One thesis.
+I turn AI chaos into production systems.
 
-> "The bottleneck is the amplifier."
-
-I compress complexity into choices you can make.
+> "The bottleneck isn't AI capability anymore. It's human reception."
 
 ---
 
-## 5 PATHS
+## What I Do
 
-### 1. RUN SOMETHING NOW
-```
-npx brain-canvas     → Give any LLM a display
-paste → unpack       → Activate a seed in any LLM
-npx genui            → Gemini generates UI live
-```
+Premium AI consulting. I find bottlenecks, build solutions, hand you the keys, and leave.
 
-### 2. QUERY MY BRAIN
-[**intellectual-dna**](https://github.com/mordechaipotash/intellectual-dna)
-353K messages · 30+ MCP tools · 256ms semantic search
+**One engagement. One case study:**
+- Tax credit system losing $5K per wrong answer → Audio-guided solution → **$200K+ captured** in first year
+- Built solo. Shipped in one week. Error rate: 30% → under 5%
 
-### 3. SEE THE DATA ENGINEERING
-[**youtube-transcription-pipeline**](https://github.com/mordechaipotash/youtube-transcription-pipeline)
-32K videos · 41.8M words · Local Whisper · $0 API
-
-### 4. SEE PRODUCTION SYSTEMS
-[**enterprise-tax-credit-platform**](https://github.com/mordechaipotash/enterprise-tax-credit-platform)
-PostGIS · AI extraction · 86-column federal compliance
-
-[**audio_wotc_unemployment_verification**](https://github.com/mordechaipotash/audio_wotc_unemployment_verification)
-$200K+ generated · Built in 1 week · Multi-tenant
-
-### 5. UNDERSTAND THE THESIS
-[**bottleneck-principle**](https://github.com/mordechaipotash/bottleneck-principle)
-∞ → compression → 5 choices → human decides → AI executes
+→ [**mordechaipotash.com**](https://mordechaipotash.com) — full case studies, proof, engagement details
 
 ---
 
-## The Depth
+## What I Built for Myself
 
-```
-142 repos (17 public · 12 working · 113 archived)
-62 WOTC iterations → 4 production systems
-3 years of AI → queryable in 256ms
-```
+### [Brain MCP](https://github.com/mordechaipotash/intellectual-dna)
+Cognitive prosthetic: 387K messages queryable in 256ms. 85K embeddings. 25 MCP tools (17 generic + 8 prosthetic). Semantic search across 3 years of AI conversations.
 
-The public repos are the compression.
+### [brain-canvas](https://github.com/mordechaipotash/brain-canvas)
+Give any LLM its own display. Send JSON, get interactive UI. `npx brain-canvas`
+
+### [YouTube Pipeline](https://github.com/mordechaipotash/youtube-transcription-pipeline)
+32K+ videos → 41.8M words. Local ML transcription. $0 API costs.
+
+### [WOTC Systems](https://github.com/mordechaipotash/audio_wotc_unemployment_verification)
+$200K+ revenue generated. Built in 1 week. Multi-tenant production.
 
 ---
 
-*Beit Shemesh, Israel · Open to async work*
+## The Numbers
+
+```
+387K messages · 20,600+ conversations · 85K embeddings
+134 repos · 1,630 commits · 25 MCP tools
+3 years · 1 thesis · $200K revenue
+```
+
+---
+
+## Talk to Steve
+
+My AI agent handles initial conversations. If there's fit, I engage directly.
+
+→ [**mordechaipotash.com/ask**](https://mordechaipotash.com/ask)
+
+---
+
+*Beit Shemesh, Israel · [mordechaipotash.com](https://mordechaipotash.com) · [LinkedIn](https://www.linkedin.com/in/mordechai-potash-98838438/)*
