@@ -1,14 +1,18 @@
 # Mordechai Potash
 
-I turn AI chaos into production systems.
+I build through an AI agent. I'm responsible for every line.
 
-> "The bottleneck isn't AI capability anymore. It's human reception."
+> "100% human orchestrating of AI — I call it 'AI in the loop' as a contrarian to the stupid 2025 'human in the loop.'"
 
 ---
 
-## What I Do
+## How We Work
 
-I build AI agent infrastructure — memory, voice, automation — and open-source it.
+Every repo here was built by **Steve [AI]**, my agent. 100% machine execution. 100% human accountability.
+
+I don't "use AI tools." I conduct an agent. The conductor takes the bow AND the blame.
+
+→ [**How We Work**](HOW-WE-WORK.md) — the full philosophy
 
 When I consult, I find the bottleneck, build the fix, and leave. One engagement generated **$200K** (tax credit system, built solo in one week, error rate 30% → under 5%).
 
@@ -18,7 +22,7 @@ When I consult, I find the bottleneck, build the fix, and leave. One engagement 
 
 ## The Agent Stack
 
-I run a personal AI agent 24/7. These are the open-source pieces:
+I run Steve [AI] 24/7. These are the open-source pieces:
 
 ```mermaid
 graph TD
@@ -67,10 +71,12 @@ graph TD
 
 ## Talk to Steve
 
-My AI agent handles initial conversations. If there's fit, I engage directly.
+Steve handles initial conversations. If there's fit, I engage directly.
 
 → [**mordechaipotash.com/steve**](https://mordechaipotash.com/steve)
 
 ---
+
+**Author:** Mordechai Potash · Built through Steve [AI] · [How We Work](HOW-WE-WORK.md)
 
 *Beit Shemesh, Israel · [mordechaipotash.com](https://mordechaipotash.com) · [LinkedIn](https://www.linkedin.com/in/mordechai-potash-98838438/)*
