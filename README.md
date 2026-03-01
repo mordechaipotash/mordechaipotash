@@ -20,8 +20,8 @@ Premium AI consulting. I find bottlenecks, build solutions, hand you the keys, a
 
 ## What I Built for Myself
 
-### [Brain MCP](https://github.com/mordechaipotash/intellectual-dna)
-Cognitive prosthetic: 387K messages queryable in 256ms. 85K embeddings. 25 MCP tools (17 generic + 8 prosthetic). Semantic search across 3 years of AI conversations.
+### [Brain MCP](https://github.com/mordechaipotash/brain-mcp)
+Cognitive prosthetic: 387K messages queryable in 12ms. 85K embeddings. 25 MCP tools (17 generic + 8 prosthetic). Semantic search across 3 years of AI conversations.
 
 ### [brain-canvas](https://github.com/mordechaipotash/brain-canvas)
 Give any LLM its own display. Send JSON, get interactive UI. `npx brain-canvas`
@@ -48,7 +48,7 @@ $200K+ revenue generated. Built in 1 week. Multi-tenant production.
 
 My AI agent handles initial conversations. If there's fit, I engage directly.
 
-→ [**mordechaipotash.com/ask**](https://mordechaipotash.com/ask)
+→ [**mordechaipotash.com/steve**](https://mordechaipotash.com/steve)
 
 ---
 
