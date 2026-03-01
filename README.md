@@ -8,13 +8,11 @@ I turn AI chaos into production systems.
 
 ## What I Do
 
-Premium AI consulting. I find bottlenecks, build solutions, hand you the keys, and leave.
+I build AI agent infrastructure — memory, voice, automation — and open-source it.
 
-**One engagement. One case study:**
-- Tax credit system losing $5K per wrong answer → Audio-guided solution → **$200K+ captured** in first year
-- Built solo. Shipped in one week. Error rate: 30% → under 5%
+When I consult, I find the bottleneck, build the fix, and leave. One engagement generated **$200K** (tax credit system, built solo in one week, error rate 30% → under 5%).
 
-→ [**mordechaipotash.com**](https://mordechaipotash.com) — full case studies, proof, engagement details
+→ [**mordechaipotash.com**](https://mordechaipotash.com) — case studies, proof, engagement details
 
 ---
 
