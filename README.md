@@ -73,7 +73,7 @@ graph TD
 
 Steve handles initial conversations. If there's fit, I engage directly.
 
-→ [**mordechaipotash.com/steve**](https://mordechaipotash.com/steve)
+→ [**mordechaipotash.com/ask**](https://mordechaipotash.com/ask)
 
 ---
 
