@@ -8,8 +8,6 @@ The bottleneck isn't the machine. It never was.
 
 **[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. Send JSON, get interactive UI. `npx brain-canvas`
 
-**[youtube-transcription-pipeline](https://github.com/mordechaipotash/youtube-transcription-pipeline)** — 32K videos. 41.8M words. Local ML transcription. $0 API costs.
-
 **[sefer-graph](https://github.com/mordechaipotash/sefer-graph)** — Torah Citation Knowledge Graph. 6,043 books. 3.49M segment links. Built in 70 minutes.
 
 ---
