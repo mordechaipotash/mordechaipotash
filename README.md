@@ -8,7 +8,7 @@ The bottleneck isn't the machine. It never was.
 
 **[brain-canvas](https://github.com/mordechaipotash/brain-canvas)** — Give any LLM its own display. Send JSON, get interactive UI. `npx brain-canvas`
 
-**[sefer-graph](https://github.com/mordechaipotash/sefer-graph)** — Torah Citation Knowledge Graph. 6,043 books. 3.49M segment links. Built in 70 minutes.
+**[how-i-ship](https://github.com/mordechaipotash/how-i-ship)** — The apparatus behind one production build: decisions written before the outcome was known, nine retractions with time-to-catch, and CI that gates prose.
 
 ---
 
